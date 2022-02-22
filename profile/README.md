@@ -3,7 +3,7 @@
 ## Official Builds
 
 TWRP is currently official for this device!
-You can find it [here](https://twrp.me/samsung/goya.html "TWRP for Samsung Galaxy Tab 3 Lite 7.0 (Marvell PXA986 Edition)").
+You can find it [here](https://twrp.me/samsung/samsunggalaxytab3lite70.html "TWRP for Samsung Galaxy Tab 3 Lite 7.0").
 
 ## Repositories
 
