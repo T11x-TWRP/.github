@@ -1,5 +1,9 @@
 # TWRP development for T11x
 
+## No longer supported
+
+I will no longer support these builds since I no longer have a working SM-T110. I can't test anything, and I'm no longer interested in reviving this budget tablet from 2014.
+
 ## Official Builds
 
 TWRP is currently official for this device!
