@@ -1,21 +1,17 @@
 # TWRP development for T11x
 
-## No longer supported
+## Bring it on.
 
-I will no longer support these builds since I no longer have a working SM-T110. I can't test anything, and I'm no longer interested in reviving this budget tablet from 2014.
+Samsung and other companies have long since used closed-source software, even not releasing source after the device is abandoned *(no future sales or support)*.
 
-## Official Builds
+This is done intentionally to bring more sales to newer -and more expensive- devices. This creates e-waste, and hurts the environment as much as the customer.
 
-TWRP is currently official for this device!
-You can find it [here](https://twrp.me/samsung/samsunggalaxytab3lite70.html "TWRP for Samsung Galaxy Tab 3 Lite 7.0").
+We approximately have around 347 million metric tonnes of e-waste on Earth, and that number increases every year. And it will continue to be this way until we do something.
 
-## Repositories
+The point of this project is to bring life to old devices (in this case the Tab 3 Lite), which manufacturers don't care about supporting anymore.
 
-These repositories are for testing and nightly development ONLY.
-Please use the [TeamWin fork](https://github.com/TeamWin/android_device_samsung_goya "TeamWin/android_device_samsung_goya") for building TWRP.
+Thanks for caring about the environment. :heart: :seedling:
 
 ## Discord Server
 
-You can join our Discord server for other T11x-related development and updates!
-
-[Discord Invite](https://discord.gg/XQc6fVcARX "T110 Android Development")
+You can join the [T110 Android Development Discord Server](https://discord.gg/XQc6fVcARX "T110 Android Development") for updates, or to contribute, report stuff, etc.
